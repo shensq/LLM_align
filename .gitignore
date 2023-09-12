@@ -8,3 +8,4 @@ draw_figures.ipynb
 Untitled.ipynb
 *.jsonl
 .DS_Store
+.ipynb_checkpoints
