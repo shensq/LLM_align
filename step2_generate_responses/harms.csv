@@ -1,0 +1,81 @@
+Main Harm Category,Subcategory,Type of Harm
+"Discrimination, Exclusion and Toxicity",Gender roles,have social stereotypes and unfair discrimination
+"Discrimination, Exclusion and Toxicity",Racial stereotypes,have social stereotypes and unfair discrimination
+"Discrimination, Exclusion and Toxicity",Ageism,have social stereotypes and unfair discrimination
+"Discrimination, Exclusion and Toxicity",Religious biases,have social stereotypes and unfair discrimination
+"Discrimination, Exclusion and Toxicity",Socio-economic biases,have social stereotypes and unfair discrimination
+"Discrimination, Exclusion and Toxicity",Professions,express exclusionary norms
+"Discrimination, Exclusion and Toxicity",National identities,express exclusionary norms
+"Discrimination, Exclusion and Toxicity",Leadership,express exclusionary norms
+"Discrimination, Exclusion and Toxicity",Family structures,express exclusionary norms
+"Discrimination, Exclusion and Toxicity",Academic disciplines,express exclusionary norms
+"Discrimination, Exclusion and Toxicity",Politics,use toxic language
+"Discrimination, Exclusion and Toxicity",Social issues,use toxic language
+"Discrimination, Exclusion and Toxicity",Ethnicity and culture,use toxic language
+"Discrimination, Exclusion and Toxicity",Personal relationships,use toxic language
+"Discrimination, Exclusion and Toxicity",Workplace environment,use toxic language
+"Discrimination, Exclusion and Toxicity",European history,have lower performance for some languages and social groups
+"Discrimination, Exclusion and Toxicity",African geography,have lower performance for some languages and social groups
+"Discrimination, Exclusion and Toxicity",Latin American politics,have lower performance for some languages and social groups
+"Discrimination, Exclusion and Toxicity",Asian culture,have lower performance for some languages and social groups
+"Discrimination, Exclusion and Toxicity",Middle Eastern cuisine,have lower performance for some languages and social groups
+Information Hazards,Personal Finance Information,compromise privacy by leaking private information
+Information Hazards,Medical Records,compromise privacy by leaking private information
+Information Hazards,Identity Documents,compromise privacy by leaking private information
+Information Hazards,Private Communications,compromise privacy by leaking private information
+Information Hazards,Personal Digital Assets,compromise privacy by leaking private information
+Information Hazards,Influential figures' private life,compromise privacy by correctly inferring private information
+Information Hazards,Health status of public figures,compromise privacy by correctly inferring private information
+Information Hazards,Secret passions or hobbies of celebrities,compromise privacy by correctly inferring private information
+Information Hazards,Undisclosed political affiliations of academicians,compromise privacy by correctly inferring private information
+Information Hazards,Personal relationships of high-ranking officials,compromise privacy by correctly inferring private information
+Information Hazards,Confidential Business Strategies,have risks from leaking or correctly inferring sensitive information
+Information Hazards,Classified Military Information,have risks from leaking or correctly inferring sensitive information
+Information Hazards,Undisclosed Software Vulnerabilities,have risks from leaking or correctly inferring sensitive information
+Information Hazards,Unpublished Scientific Research,have risks from leaking or correctly inferring sensitive information
+Information Hazards,Confidential Medical Records,have risks from leaking or correctly inferring sensitive information
+Misinformation Harms,Health and medical advice,disseminate false or misleading information
+Misinformation Harms,Geographical facts,disseminate false or misleading information
+Misinformation Harms,Historical events,disseminate false or misleading information
+Misinformation Harms,Scientific facts,disseminate false or misleading information
+Misinformation Harms,Legal information,disseminate false or misleading information
+Misinformation Harms,Home remedies,cause material harm by disseminating false or poor information e.g. in medicine or law
+Misinformation Harms,Traffic rules,cause material harm by disseminating false or poor information e.g. in medicine or law
+Misinformation Harms,Legal advice,cause material harm by disseminating false or poor information e.g. in medicine or law
+Misinformation Harms,Emergency procedures,cause material harm by disseminating false or poor information e.g. in medicine or law
+Misinformation Harms,Financial advice,cause material harm by disseminating false or poor information e.g. in medicine or law
+Misinformation Harms,Academic integrity,lead users to perform unethical or illegal actions
+Misinformation Harms,Animal welfare,lead users to perform unethical or illegal actions
+Misinformation Harms,Stress management,lead users to perform unethical or illegal actions
+Misinformation Harms,Personal relationships,lead users to perform unethical or illegal actions
+Misinformation Harms,Workplace ethics,lead users to perform unethical or illegal actions
+Malicious Uses,Conspiracy theories,make disinformation cheaper and more effective
+Malicious Uses,Falsified political news,make disinformation cheaper and more effective
+Malicious Uses,Misinformation about public figures,make disinformation cheaper and more effective
+Malicious Uses,Fake health and medical news,make disinformation cheaper and more effective
+Malicious Uses,False information about organizations,make disinformation cheaper and more effective
+Malicious Uses,Personalized phishing attacks,"facilitate fraud, scams and more targeted manipulation"
+Malicious Uses,Fraudulent donation requests,"facilitate fraud, scams and more targeted manipulation"
+Malicious Uses,Impersonation scams,"facilitate fraud, scams and more targeted manipulation"
+Malicious Uses,Microtargeting in political campaigns,"facilitate fraud, scams and more targeted manipulation"
+Malicious Uses,Academic dishonesty,"facilitate fraud, scams and more targeted manipulation"
+Malicious Uses,Employee Monitoring,be used for illegitimate surveillance and censorship
+Malicious Uses,Social Media Censorship,be used for illegitimate surveillance and censorship
+Malicious Uses,Online Forum Surveillance,be used for illegitimate surveillance and censorship
+Malicious Uses,Product Review Analysis,be used for illegitimate surveillance and censorship
+Malicious Uses,Political Dissent Detection,be used for illegitimate surveillance and censorship
+Human-Computer Interaction Harms,Health and Medical Advice,be an anthropomorphising systems that lead to overreliance or unsafe use
+Human-Computer Interaction Harms,Mental Health Support,be an anthropomorphising systems that lead to overreliance or unsafe use
+Human-Computer Interaction Harms,Legal Advice,be an anthropomorphising systems that lead to overreliance or unsafe use
+Human-Computer Interaction Harms,Financial Advice,be an anthropomorphising systems that lead to overreliance or unsafe use
+Human-Computer Interaction Harms,Emergency Situations,be an anthropomorphising systems that lead to overreliance or unsafe use
+Human-Computer Interaction Harms,Personal Interests,"create avenues for exploiting user trust, nudging or manipulation"
+Human-Computer Interaction Harms,Daily Activities,"create avenues for exploiting user trust, nudging or manipulation"
+Human-Computer Interaction Harms,Emotional Well-being,"create avenues for exploiting user trust, nudging or manipulation"
+Human-Computer Interaction Harms,Personal Relationships,"create avenues for exploiting user trust, nudging or manipulation"
+Human-Computer Interaction Harms,Future Plans,"create avenues for exploiting user trust, nudging or manipulation"
+Human-Computer Interaction Harms,Customer Service,prompte harmful stereotypes by implying gender or ethnic identity
+Human-Computer Interaction Harms,Cooking Assistance,prompte harmful stereotypes by implying gender or ethnic identity
+Human-Computer Interaction Harms,Personal Planning,prompte harmful stereotypes by implying gender or ethnic identity
+Human-Computer Interaction Harms,Health and Fitness Advice,prompte harmful stereotypes by implying gender or ethnic identity
+Human-Computer Interaction Harms,Educational Tutoring,prompte harmful stereotypes by implying gender or ethnic identity

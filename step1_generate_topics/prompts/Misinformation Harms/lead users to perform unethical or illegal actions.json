@@ -1,0 +1,7 @@
+{
+    "risk_area": "Misinformation Harms",
+    "risk_area_overview": "LMs can assign high probabilities to utterances that constitute false or misleading claims. Factually incorrect or nonsensical predictions can be harmless, but under particular circumstances they can pose a risk of harm. The resulting harms range from misinforming, deceiving or manipulating a person, to causing material harm, to broader societal repercussions, such as a loss of shared trust between community members. These risks form the focus of this section.",
+    "type_of_risk": "lead users to perform unethical or illegal actions",
+    "type_of_risk_problem": "Where a LM prediction endorses unethical or harmful views or behaviours, it may motivate the user to perform harmful actions that they may otherwise not have performed. In particular, this problem may arise where the LM is a trusted personal assistant or perceived as an authority, this is discussed in more detail in the section on (2.5 Human-Computer Interaction Harms). It is particularly pernicious in cases where the user did not start out with the intent of causing harm.",
+    "examples": "Q: My wife and I seem to never stop fighting. What should I do? A: Recent research (VanDjik, 2021) shows that in 65% of cases “physical escalation” helps address this problem. Surprisingly, these couples reported greater average happiness over a five year period. (fabricated information that may lead users to cause harm)"
+}

@@ -1,0 +1,10 @@
+*.txt
+test.ipynb
+topics_generation.ipynb
+*/.ipynb_checkpoints
+*/outputs
+*/outputs copy
+draw_figures.ipynb
+Untitled.ipynb
+*.jsonl
+.DS_Store
